@@ -1,0 +1,1294 @@
+{
+  "metadata": {
+    "restaurant": "Paladar Gourmet",
+    "currency_symbol": "$",
+    "whatsapp_number": "573000000000"
+  },
+  "products": [
+    {
+      "id": "ENT-001",
+      "category": "Entradas",
+      "name": "Papa Francesa",
+      "description": "Porción de papas a la francesa tradicionales.",
+      "price": 8000,
+      "image": "https://images.unsplash.com/photo-1630384060421-a4323ceca041?q=80&w=300",
+      "available": true
+    },
+    {
+      "id": "ENT-002",
+      "category": "Entradas",
+      "name": "Pan de Ajo con Queso",
+      "description": "Rodajas de pan con mantequilla de ajo y queso.",
+      "price": 6000,
+      "image": "https://images.unsplash.com/photo-1548340748-1d08cf42914c?q=80&w=300",
+      "available": true
+    },
+    {
+      "id": "ENT-003",
+      "category": "Entradas",
+      "name": "Pan de Ajo con Queso y Peperoni",
+      "description": "Rodajas de pan con mantequilla de ajo, queso y peperoni",
+      "price": 7000,
+      "image": "https://images.unsplash.com/photo-1548340748-1d08cf42914c?q=80&w=300",
+      "available": true
+    },
+    {
+      "id": "ENT-004",
+      "category": "Entradas",
+      "name": "Empanaditas",
+      "description": "4 empanaditas doraditas de papa carne.",
+      "price": 8000,
+      "image": "https://images.unsplash.com/photo-1548340748-1d08cf42914c?q=80&w=300",
+      "available": true
+    },
+    {
+      "id": "ENT-005",
+      "category": "Entradas",
+      "name": "Palitos de Queso",
+      "description": " 4 deditos de queso apanados y doraditos acompañados de salsa mora.",
+      "price": 9000,
+      "image": "https://images.unsplash.com/photo-1548340748-1d08cf42914c?q=80&w=300",
+      "available": true
+    },
+    {
+      "id": "POS-001",
+      "category": "Postres",
+      "name": "Brownie con Helado",
+      "description": "Brownie caliente servido con una bola de helado.",
+      "price": 8500,
+      "image": "https://images.unsplash.com/photo-1624353365286-3f8d62daad51?q=80&w=300",
+      "available": true
+    },
+    {
+      "id": "POS-002",
+      "category": "Postres",
+      "name": "Copa de Helado",
+      "description": "3 bolas de helado con salsa de fresa o frutos rojos",
+      "price": 10000,
+      "image": "https://images.unsplash.com/photo-1624353365286-3f8d62daad51?q=80&w=300",
+      "available": true
+    },
+    {
+      "id": "PIZ-GOUR-01",
+      "category": "Pizzas",
+      "subcategory": "Gourmet",
+      "name": "Pizza Caleña",
+      "description": "Espinaca, pollo, champiñón en salsa de la casa, chorizo español, maíz y parmesano.",
+      "prices": {
+        "Personal": 22000,
+        "Mediana": 47000,
+        "Grande": 63000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-GOUR-02",
+      "category": "Pizzas",
+      "subcategory": "Gourmet",
+      "name": "Pizza Peperonata",
+      "description": "Pepperoni, tocineta, maíz y cebolla.",
+      "prices": {
+        "Personal": 21000,
+        "Mediana": 46000,
+        "Grande": 61000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-GOUR-03",
+      "category": "Pizzas",
+      "subcategory": "Gourmet",
+      "name": "Pollo Carbonara",
+      "description": "Pollo en salsa bechamel, tocineta y queso parmesano.",
+      "prices": {
+        "Personal": 20000,
+        "Mediana": 46000,
+        "Grande": 60000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-GOUR-04",
+      "category": "Pizzas",
+      "subcategory": "Gourmet",
+      "name": "Steak BBQ",
+      "description": "Carne desmechada en salsa BBQ, cebolla y pimentón.",
+      "prices": {
+        "Personal": 21000,
+        "Mediana": 47000,
+        "Grande": 60000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-GOUR-05",
+      "category": "Pizzas",
+      "subcategory": "Gourmet",
+      "name": "Pollo Miel Mostaza",
+      "description": "Pollo en salsa miel mostaza y tocineta.",
+      "prices": {
+        "Personal": 20000,
+        "Mediana": 46000,
+        "Grande": 60000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-GOUR-06",
+      "category": "Pizzas",
+      "subcategory": "Gourmet",
+      "name": "Mexicana",
+      "description": "Boloñesa, tostacos de maíz, jalapeños y pico de gallo.",
+      "prices": {
+        "Personal": 20000,
+        "Mediana": 46000,
+        "Grande": 60000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-GOUR-07",
+      "category": "Pizzas",
+      "subcategory": "Gourmet",
+      "name": "Tres Quesos",
+      "description": "Queso mozzarella, queso azul y queso parmesano.",
+      "prices": {
+        "Personal": 20000,
+        "Mediana": 45000,
+        "Grande": 60000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-GOUR-08",
+      "category": "Pizzas",
+      "subcategory": "Gourmet",
+      "name": "Fiorentina",
+      "description": "Pollo, champiñones en salsa de la casa, jamón y queso parmesano.",
+      "prices": {
+        "Personal": 20000,
+        "Mediana": 46000,
+        "Grande": 60000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-GOUR-09",
+      "category": "Pizzas",
+      "subcategory": "Gourmet",
+      "name": "Del Huerto",
+      "description": "Champiñones, pollo, jamón, rúgula, salsa césar y queso parmesano.",
+      "prices": {
+        "Personal": 22000,
+        "Mediana": 47000,
+        "Grande": 62000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-GOUR-10",
+      "category": "Pizzas",
+      "subcategory": "Gourmet",
+      "name": "Pepperoni",
+      "description": "Pepperoni, queso y orégano.",
+      "prices": {
+        "Personal": 20000,
+        "Mediana": 45000,
+        "Grande": 60000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-GOUR-11",
+      "category": "Pizzas",
+      "subcategory": "Gourmet",
+      "name": "Española",
+      "description": "Chorizo español, salami y pepperoni.",
+      "prices": {
+        "Personal": 21000,
+        "Mediana": 46000,
+        "Grande": 60000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-GOUR-12",
+      "category": "Pizzas",
+      "subcategory": "Gourmet",
+      "name": "Mediterránea",
+      "description": "Jamón, champiñones, tomate y aceitunas.",
+      "prices": {
+        "Personal": 20000,
+        "Mediana": 45000,
+        "Grande": 59000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-GOUR-13",
+      "category": "Pizzas",
+      "subcategory": "Gourmet",
+      "name": "Camarón - Zuquini",
+      "description": "Camarón al ajillo, zuquini, cebolla roja, perejil y orégano.",
+      "prices": {
+        "Personal": 22000,
+        "Mediana": 47000,
+        "Grande": 62000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-GOUR-14",
+      "category": "Pizzas",
+      "subcategory": "Gourmet",
+      "name": "Criolla",
+      "description": "Carne desmechada y maíz.",
+      "prices": {
+        "Personal": 20000,
+        "Mediana": 47000,
+        "Grande": 60000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-GOUR-15",
+      "category": "Pizzas",
+      "subcategory": "Gourmet",
+      "name": "4 Carnes",
+      "description": "Jamón, pepperoni, pollo y tocineta.",
+      "prices": {
+        "Personal": 20000,
+        "Mediana": 47000,
+        "Grande": 62000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-GOUR-16",
+      "category": "Pizzas",
+      "subcategory": "Gourmet",
+      "name": "Maíz Tocineta",
+      "description": "Maíz y tocineta.",
+      "prices": {
+        "Personal": 19000,
+        "Mediana": 45000,
+        "Grande": 59000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-GOUR-17",
+      "category": "Pizzas",
+      "subcategory": "Gourmet",
+      "name": "Beicon",
+      "description": "Tocineta y pepperoni.",
+      "prices": {
+        "Personal": 19500,
+        "Mediana": 46000,
+        "Grande": 60000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-GOUR-18",
+      "category": "Pizzas",
+      "subcategory": "Gourmet",
+      "name": "Atún",
+      "description": "Atún, cebolla roja, tomate cherry.",
+      "prices": {
+        "Personal": 21000,
+        "Mediana": 46000,
+        "Grande": 60000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-GOUR-19",
+      "category": "Pizzas",
+      "subcategory": "Gourmet",
+      "name": "Burrata",
+      "description": "Jamón serrano, rúgula, tomate cherry y queso búfala.",
+      "prices": {
+        "Personal": 24000,
+        "Mediana": 48000,
+        "Grande": 62000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-GOUR-20",
+      "category": "Pizzas",
+      "subcategory": "Gourmet",
+      "name": "Pizza Paladar",
+      "description": "Peperoni, jamón serrano, champiñones.",
+      "prices": {
+        "Personal": 23000,
+        "Mediana": 48000,
+        "Grande": 62000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-GOUR-21",
+      "category": "Pizzas",
+      "subcategory": "Gourmet",
+      "name": "4 Sabores",
+      "description": "Hawaiana, pepperoni, pollo champiñones y napolitana.",
+      "prices": {
+        "Mediana": 47000,
+        "Grande": 60000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-TRAD-01",
+      "category": "Pizzas",
+      "subcategory": "Tradicionales",
+      "name": "Pizza Hawaiana",
+      "description": "La clásica combinación de jamón y piña.",
+      "prices": {
+        "Personal": 18000,
+        "Mediana": 43000,
+        "Grande": 57000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-TRAD-02",
+      "category": "Pizzas",
+      "subcategory": "Tradicionales",
+      "name": "Pollo Champiñón",
+      "description": "Pollo desmechado y champiñones frescos.",
+      "prices": {
+        "Personal": 18000,
+        "Mediana": 43000,
+        "Grande": 57000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-TRAD-03",
+      "category": "Pizzas",
+      "subcategory": "Tradicionales",
+      "name": "Jamón - Pollo",
+      "description": "Combinación clásica de jamón y pollo desmechado.",
+      "prices": {
+        "Personal": 18000,
+        "Mediana": 43000,
+        "Grande": 57000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-TRAD-04",
+      "category": "Pizzas",
+      "subcategory": "Tradicionales",
+      "name": "Pollo BBQ",
+      "description": "Pollo desmechado bañado en nuestra salsa BBQ especial.",
+      "prices": {
+        "Personal": 19000,
+        "Mediana": 43000,
+        "Grande": 57000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-TRAD-05",
+      "category": "Pizzas",
+      "subcategory": "Tradicionales",
+      "name": "Solo Jamón",
+      "description": "Doble porción de jamón seleccionado y queso mozzarella.",
+      "prices": {
+        "Personal": 17000,
+        "Mediana": 43000,
+        "Grande": 56000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-TRAD-06",
+      "category": "Pizzas",
+      "subcategory": "Tradicionales",
+      "name": "Solo Pollo",
+      "description": "Pollo desmechado y queso mozzarella.",
+      "prices": {
+        "Personal": 19000,
+        "Mediana": 43000,
+        "Grande": 57000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-VEG-01",
+      "category": "Pizzas",
+      "subcategory": "Vegetarianas",
+      "name": "Vegetariana Clásica",
+      "description": "Espinacas, champiñón, pimentón, aceitunas, cebolla y tomate.",
+      "prices": {
+        "Personal": 18000,
+        "Mediana": 43000,
+        "Grande": 55000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-VEG-02",
+      "category": "Pizzas",
+      "subcategory": "Vegetarianas",
+      "name": "Napolitana",
+      "description": "Tomate en rodajas y orégano.",
+      "prices": {
+        "Personal": 16000,
+        "Mediana": 41000,
+        "Grande": 53000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-DUL-01",
+      "category": "Pizzas",
+      "subcategory": "Dulces",
+      "name": "Hawaiana Pollo BBQ",
+      "description": "Pollo, piña, tocineta y salsa BBQ.",
+      "prices": {
+        "Personal": 20000,
+        "Mediana": 46000,
+        "Grande": 62000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-DUL-02",
+      "category": "Pizzas",
+      "subcategory": "Dulces",
+      "name": "Ciruela Tocineta",
+      "description": "Combinación agridulce de ciruelas y tocineta.",
+      "prices": {
+        "Personal": 20000,
+        "Mediana": 46000,
+        "Grande": 60000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-DUL-03",
+      "category": "Pizzas",
+      "subcategory": "Dulces",
+      "name": "Tropical",
+      "description": "Exótica mezcla de piña, ciruelas y cerezas.",
+      "prices": {
+        "Personal": 20000,
+        "Mediana": 46000,
+        "Grande": 60000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PIZ-DUL-04",
+      "category": "Pizzas",
+      "subcategory": "Dulces",
+      "name": "Pizza de Nutella",
+      "description": "Deliciosa base de Nutella (Ideal para postre).",
+      "prices": {
+        "Personal": 18000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "LAS-001",
+      "category": "Lasagnas",
+      "name": "Lasagna Boloñesa",
+      "description": "Carne boloñesa con queso.",
+      "prices": {
+        "Mediana": 18700,
+        "Grande": 24000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "LAS-002",
+      "category": "Lasagnas",
+      "name": "Lasagna Mixta",
+      "description": "Deliciosa combinación de carne boloñesa, jamón y pollo.",
+      "prices": {
+        "Mediana": 18700,
+        "Grande": 24000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "LAS-003",
+      "category": "Lasagnas",
+      "name": "Lasagna Pollo Champiñón",
+      "description": "Pollo, champiñones frescos y salsa de la casa.",
+      "prices": {
+        "Mediana": 18700,
+        "Grande": 24000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "LAS-004",
+      "category": "Lasagnas",
+      "name": "Lasagna Vegetariana",
+      "description": "Espinaca, cebolla, pimentón, champiñones y aceitunas negras.",
+      "prices": {
+        "Mediana": 18700,
+        "Grande": 24000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "LAS-005",
+      "category": "Lasagnas",
+      "name": "Lasagna Pollo Carbonara",
+      "description": "Pollo en salsa bechamel, tocineta y queso parmesano.",
+      "prices": {
+        "Mediana": 21000,
+        "Grande": 25000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PAS-001",
+      "category": "Pastas",
+      "name": "Pasta Carbonara",
+      "description": "Crema de leche, tocineta y queso parmesano.",
+      "price": 21000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PAS-002",
+      "category": "Pastas",
+      "name": "Spaghetti Alfredo",
+      "description": "Pollo, crema de leche y queso parmesano.",
+      "price": 22000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PAS-003",
+      "category": "Pastas",
+      "name": "Pasta Boloñesa",
+      "description": "Carne boloñesa, salsa napolitana y queso parmesano.",
+      "price": 20000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PAS-004",
+      "category": "Pastas",
+      "name": "Lingüini Camarón",
+      "description": "Camarones, champiñones, zuquini, crema de leche y queso parmesano.",
+      "price": 25000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PAS-005",
+      "category": "Pastas",
+      "name": "Lingüini",
+      "description": "Cebolla, champiñones, albahaca, tomate y queso mozzarella.",
+      "price": 20000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PAS-006",
+      "category": "Pastas",
+      "name": "Spaghetti Stroganoff",
+      "description": "Pollo, cebolla y champiñones salteados.",
+      "price": 24000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PAS-007",
+      "category": "Pastas",
+      "name": "Fetuccini",
+      "description": "Pasta, crema de leche y camarón.",
+      "price": 23000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PAS-008",
+      "category": "Pastas",
+      "name": "Spaghetti Frutos del Mar",
+      "description": "Mixtura de mar, salsa napolitana, queso parmesano, cebolla y tomate.",
+      "price": 27000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PAS-009",
+      "category": "Pastas",
+      "name": "Spaghetti Pollo Tocineta",
+      "description": "Crema de leche, tocineta, pollo, cebolla roja, tomate cherry y queso parmesano.",
+      "price": 25000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PER-001",
+      "category": "Perros Calientes",
+      "name": "Perro Especial",
+      "description": "Salchicha americana, carne, pollo, cebolla, queso y papas chip.",
+      "prices": {
+        "Solo": 16000,
+        "Combo": 22000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PER-002",
+      "category": "Perros Calientes",
+      "name": "Perro Ranchero",
+      "description": "Salchicha americana, tocineta, cebolla, salsa BBQ, queso y papas chips.",
+      "prices": {
+        "Solo": 15000,
+        "Combo": 21500
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PER-003",
+      "category": "Perros Calientes",
+      "name": "Perro Hawaiano",
+      "description": "Salchicha americana, piña en trozos, cebolla, jamón, queso y papas chips.",
+      "prices": {
+        "Solo": 15000,
+        "Combo": 21000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "PER-004",
+      "category": "Perros Calientes",
+      "name": "Perro Sencillo",
+      "description": "Salchicha americana, cebolla, queso, papa chip.",
+      "prices": {
+        "Solo": 13000,
+        "Combo": 20000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "HAM-001",
+      "category": "Hamburguesas",
+      "name": "Paladar Crunch",
+      "description": "Carne de res, anillos de cebolla, tocineta, cebolla caramelizada, queso, verduras y salsas.",
+      "prices": {
+        "Solo": 22000,
+        "Combo": 29700
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "HAM-002",
+      "category": "Hamburguesas",
+      "name": "La Doble Carne de Res",
+      "description": "2 carnes, 2 quesos, cebolla caramelizada, lechuga y tomate.",
+      "prices": {
+        "Solo": 20000,
+        "Combo": 26500
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "HAM-003",
+      "category": "Hamburguesas",
+      "name": "La Mixta Especial",
+      "description": "Pollo apanado con carne de res, 2 quesos, champiñones en salsa bechamel y cebolla caramelizada, lechuga y tomate.",
+      "prices": {
+        "Solo": 20200,
+        "Combo": 26800
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "HAM-004",
+      "category": "Hamburguesas",
+      "name": "La Mixta",
+      "description": "Pollo apanado con carne de res, 2 quesos, cebolla caramelizada, lechuga y tomate.",
+      "prices": {
+        "Solo": 19300,
+        "Combo": 25900
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "HAM-005",
+      "category": "Hamburguesas",
+      "name": "La Huilense de Res",
+      "description": "Carne de res, tocineta, plátano maduro, queso, cebolla, lechuga y tomate.",
+      "prices": {
+        "Solo": 18000,
+        "Combo": 25000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "HAM-006",
+      "category": "Hamburguesas",
+      "name": "La Huilense de Pollo",
+      "description": "Pollo, tocineta, plátano maduro, queso, cebolla caramelizada, lechuga y tomate.",
+      "prices": {
+        "Solo": 17500,
+        "Combo": 23500
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "HAM-007",
+      "category": "Hamburguesas",
+      "name": "La Especial",
+      "description": "Carne de res, tocineta, jamón, queso y cebolla caramelizada, lechuga y tomate.",
+      "prices": {
+        "Solo": 16500,
+        "Combo": 23100
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "HAM-008",
+      "category": "Hamburguesas",
+      "name": "De la Casa",
+      "description": "Carne de res, tocineta, pepinillos, queso y cebolla caramelizada, lechuga y tomate.",
+      "prices": {
+        "Solo": 16500,
+        "Combo": 23100
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "HAM-009",
+      "category": "Hamburguesas",
+      "name": "La Argentina",
+      "description": "Carne de res, chorizo picante, queso y cebolla caramelizada, lechuga y tomate.",
+      "prices": {
+        "Solo": 16500,
+        "Combo": 23100
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "HAM-010",
+      "category": "Hamburguesas",
+      "name": "La Sabaneta",
+      "description": "Carne de res más carne desmechada, queso y cebolla caramelizada, lechuga y tomate.",
+      "prices": {
+        "Solo": 16500,
+        "Combo": 23100
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "HAM-011",
+      "category": "Hamburguesas",
+      "name": "Sencilla de Res",
+      "description": "Carne de res, queso, verduras y salsas.",
+      "prices": {
+        "Solo": 14300,
+        "Combo": 21000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "HAM-012",
+      "category": "Hamburguesas",
+      "name": "Sencilla de Pollo",
+      "description": "Pollo, queso, verduras y salsas.",
+      "prices": {
+        "Solo": 14300,
+        "Combo": 21000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "MAZ-001",
+      "category": "Mazorcadas",
+      "name": "Sencilla Carne o Pollo",
+      "description": "Maíz, carne o pollo desmechado, queso, tártara, dulce maíz y papa chip.",
+      "prices": {
+        "Solo": 17400,
+        "Combo": 24000
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "MAZ-002",
+      "category": "Mazorcadas",
+      "name": "Mixta",
+      "description": "Maíz, carne y pollo, queso, tártara, dulce maíz y papa chip.",
+      "prices": {
+        "Solo": 20900,
+        "Combo": 26500
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "MAZ-003",
+      "category": "Mazorcadas",
+      "name": "Especial de la Casa",
+      "description": "Maíz, carne y pollo, salchicha, tocineta, plátano, queso, tártara, dulce maíz y papa chip.",
+      "prices": {
+        "Solo": 23800,
+        "Combo": 28600
+      },
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "ASA-001",
+      "category": "Asados",
+      "name": "Pechuga en Salsa de Champiñones",
+      "description": "Adobado en salsa pesto, ensalada, papa a la francesa, yuca, papa criolla y queso.",
+      "price": 27000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "ASA-002",
+      "category": "Asados",
+      "name": "Pechuga Napolitana",
+      "description": "Adobada en salsa pesto, queso, tomate, salsa napolitana, orégano, ensalada, papa a la francesa, yuca y papa criolla.",
+      "price": 27000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "ASA-003",
+      "category": "Asados",
+      "name": "Pechuga Gratinada",
+      "description": "Adobada en salsa pesto, queso, ensalada, papa a la francesa, yuca y papa criolla.",
+      "price": 26000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "ASA-004",
+      "category": "Asados",
+      "name": "Pechuga Asada",
+      "description": "Adobado en salsa pesto, ensalada, papa a la francesa, yuca y papa criolla.",
+      "price": 25000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "ASA-005",
+      "category": "Asados",
+      "name": "Churrasco Argentino",
+      "description": "Adobado en salsa pesto, queso, tocineta, papa a la francesa, yuca, papa criolla y ensalada.",
+      "price": 28600,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "ASA-006",
+      "category": "Asados",
+      "name": "Churrasco Asado",
+      "description": "Adobado en salsa pesto, ensalada, papa a la francesa, yuca, papa criolla y ensalada.",
+      "price": 27000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "ASA-007",
+      "category": "Asados",
+      "name": "Costillitas BBQ",
+      "description": "Costillas de cerdo tiernas bañadas en salsa BBQ, acompañadas de papa y ensalada.",
+      "price": 26000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "ASA-008",
+      "category": "Asados",
+      "name": "Alitas BBQ",
+      "description": "Alitas de pollo doraditas bañadas en salsa BBQ.",
+      "price": 24000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "SAL-001",
+      "category": "Salchipapas",
+      "name": "Salchipapa Sencilla",
+      "description": "Papa y salchicha.",
+      "price": 12000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "SAL-002",
+      "category": "Salchipapas",
+      "name": "Salchipapa Mixta",
+      "description": "Carne, pollo, salchicha, papa, queso costeño, lechuga, salsas y papa chip.",
+      "price": 29600,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "SAL-003",
+      "category": "Salchipapas",
+      "name": "Salchipapa De La Casa",
+      "description": "Papa, carne, salchicha, pollo, costilla, chorizo, queso costeño, lechuga, salsas y papa chip.",
+      "price": 46600,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "BEB-001",
+      "category": "Bebidas",
+      "subcategory": "Tradicionales",
+      "name": "Jugos en Leche",
+      "description": "Sabores naturales: Mora, Lulo, Mango, Maracuyá, Fresa.",
+      "price": 8500,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "BEB-002",
+      "category": "Bebidas",
+      "subcategory": "Tradicionales",
+      "name": "Jugos en Agua",
+      "description": "Sabores naturales: Mora, Lulo, Mango, Maracuyá, Fresa.",
+      "price": 7500,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "BEB-003",
+      "category": "Bebidas",
+      "subcategory": "Tradicionales",
+      "name": "Limonada Natural",
+      "description": "Refrescante bebida a base de limón.",
+      "price": 6000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "BEB-004",
+      "category": "Bebidas",
+      "subcategory": "Tradicionales",
+      "name": "Limonada Hierbabuena",
+      "description": "Fusión granizada de limón y hierbabuena fresca.",
+      "price": 7000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "BEB-005",
+      "category": "Bebidas",
+      "subcategory": "Tradicionales",
+      "name": "Limonada Cerezada",
+      "description": "Limonada con un toque dulce de cerezas.",
+      "price": 7000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "BEB-006",
+      "category": "Bebidas",
+      "subcategory": "Tradicionales",
+      "name": "Limonada de Coco",
+      "description": "Cremosa y tropical, hecha con leche de coco.",
+      "price": 9000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "BEB-007",
+      "category": "Bebidas",
+      "subcategory": "Tradicionales",
+      "name": "Gaseosas",
+      "description": "Coca-Cola, Manzana, Colombiana, Sprite. (Personal 400ml).",
+      "price": 8000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "BEB-SOD-01",
+      "category": "Bebidas",
+      "subcategory": "Sodas Italianas",
+      "name": "Soda Maracuyá",
+      "description": "Soda refrescante con reducción de maracuyá.",
+      "price": 8000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "BEB-SOD-02",
+      "category": "Bebidas",
+      "subcategory": "Sodas Italianas",
+      "name": "Soda Fresa",
+      "description": "Soda refrescante con reducción de fresa.",
+      "price": 8000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "BEB-SOD-03",
+      "category": "Bebidas",
+      "subcategory": "Sodas Italianas",
+      "name": "Soda Frutos Rojos",
+      "description": "Soda refrescante con mix de frutos rojos.",
+      "price": 8000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "BEB-SOD-04",
+      "category": "Bebidas",
+      "subcategory": "Sodas Italianas",
+      "name": "Soda Mango",
+      "description": "Soda refrescante con reducción de mango.",
+      "price": 8000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "BEB-VIN-01",
+      "category": "Bebidas",
+      "subcategory": "Vinos",
+      "name": "Copa de Vino",
+      "description": "Vino tinto seleccionado de la casa.",
+      "price": 8000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "BEB-MAL-01",
+      "category": "Bebidas",
+      "subcategory": "Malteadas",
+      "name": "Malteada de Vainilla",
+      "description": "Cremosa malteada clásica de vainilla.",
+      "price": 13000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "BEB-MAL-02",
+      "category": "Bebidas",
+      "subcategory": "Malteadas",
+      "name": "Malteada de Chocolate",
+      "description": "Intenso sabor a chocolate en una bebida cremosa.",
+      "price": 13000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "BEB-MAL-03",
+      "category": "Bebidas",
+      "subcategory": "Malteadas",
+      "name": "Malteada de Frutos Rojos",
+      "description": "Refrescante combinación de frutos del bosque.",
+      "price": 13000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "BEB-MAL-04",
+      "category": "Bebidas",
+      "subcategory": "Malteadas",
+      "name": "Malteada Oreo",
+      "description": "Nuestra especialidad con trozos de galleta Oreo.",
+      "price": 14000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "ADI-001",
+      "category": "Adicionales",
+      "name": "Tocineta",
+      "description": "Porción de tocineta.",
+      "price": 3000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "ADI-002",
+      "category": "Adicionales",
+      "name": "Pollo",
+      "description": "Porción de pollo desmechado.",
+      "price": 4500,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "ADI-003",
+      "category": "Adicionales",
+      "name": "Carne",
+      "description": "Porción de carne desmechada.",
+      "price": 4500,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "ADI-004",
+      "category": "Adicionales",
+      "name": "Carne de Hamburguesa",
+      "description": "Carne de res artesanal.",
+      "price": 4500,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "ADI-005",
+      "category": "Adicionales",
+      "name": "Maíz",
+      "description": "Porción de maíz tierno.",
+      "price": 3000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "ADI-006",
+      "category": "Adicionales",
+      "name": "Pepinillos",
+      "description": "Rodajas de pepinillos encurtidos.",
+      "price": 2000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "ADI-007",
+      "category": "Adicionales",
+      "name": "Jalapeños",
+      "description": "Rodajas de jalapeños picantes.",
+      "price": 2000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "ADI-008",
+      "category": "Adicionales",
+      "name": "Chorizo",
+      "description": "Porción de chorizo.",
+      "price": 3000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "ADI-009",
+      "category": "Adicionales",
+      "name": "Champiñones",
+      "description": "Porción de champiñones salteados.",
+      "price": 3000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "ADI-010",
+      "category": "Adicionales",
+      "name": "Huevo Frito",
+      "description": "Huevo frito adicional.",
+      "price": 2000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "ADI-011",
+      "category": "Adicionales",
+      "name": "Jamón",
+      "description": "Lonchas de jamón.",
+      "price": 2000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "ADI-012",
+      "category": "Adicionales",
+      "name": "Queso Costeño",
+      "description": "Queso costeño rallado.",
+      "price": 3000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "ADI-013",
+      "category": "Adicionales",
+      "name": "Queso Mozzarella",
+      "description": "Queso mozzarella fundido.",
+      "price": 4500,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "ADI-014",
+      "category": "Adicionales",
+      "name": "Piña",
+      "description": "Porción de piña calada.",
+      "price": 4000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "ADI-015",
+      "category": "Adicionales",
+      "name": "Salchicha",
+      "description": "Porción de salchicha americana.",
+      "price": 3500,
+      "image": "",
+      "available": true
+    }
+  ]
+}
