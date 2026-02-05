@@ -1106,12 +1106,42 @@
       "available": true
     },
     {
-      "id": "BEB-VIN-01",
+      "id": "BEB-LIC-01",
       "category": "Bebidas",
-      "subcategory": "Vinos",
+      "subcategory": "Bebidas con Licor",
+      "name": "Mojito",
+      "description": "Refrescante combinación de ron, menta, limón, azúcar y soda.",
+      "price": 12000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "BEB-LIC-02",
+      "category": "Bebidas",
+      "subcategory": "Bebidas con Licor",
+      "name": "Cuba Libre",
+      "description": "Clásica mezcla de ron con Coca-Cola y un toque de limón.",
+      "price": 12000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "BEB-LIC-03",
+      "category": "Bebidas",
+      "subcategory": "Bebidas con Licor",
+      "name": "Margarita",
+      "description": "Tequila, triple sec y jugo de limón con el borde escarchado en sal.",
+      "price": 13000,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "BEB-LIC-04",
+      "category": "Bebidas",
+      "subcategory": "Bebidas con Licor",
       "name": "Copa de Vino",
       "description": "Vino tinto seleccionado de la casa.",
-      "price": 8000,
+      "price": 12000,
       "image": "",
       "available": true
     },
