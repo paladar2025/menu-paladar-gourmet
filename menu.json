@@ -17,6 +17,15 @@
     {
       "id": "ENT-002",
       "category": "Entradas",
+      "name": "Pan de Ajo",
+      "description": "Rodajas de pan con mantequilla de ajo.",
+      "price": 3500,
+      "image": "https://images.unsplash.com/photo-1548340748-1d08cf42914c?q=80&w=300",
+      "available": true
+    },
+    {
+      "id": "ENT-003",
+      "category": "Entradas",
       "name": "Pan de Ajo con Queso",
       "description": "Rodajas de pan con mantequilla de ajo y queso.",
       "price": 6000,
@@ -24,7 +33,7 @@
       "available": true
     },
     {
-      "id": "ENT-003",
+      "id": "ENT-004",
       "category": "Entradas",
       "name": "Pan de Ajo con Queso y Peperoni",
       "description": "Rodajas de pan con mantequilla de ajo, queso y peperoni",
@@ -33,7 +42,7 @@
       "available": true
     },
     {
-      "id": "ENT-004",
+      "id": "ENT-005",
       "category": "Entradas",
       "name": "Empanaditas",
       "description": "4 empanaditas doraditas de papa carne.",
@@ -42,11 +51,38 @@
       "available": true
     },
     {
-      "id": "ENT-005",
+      "id": "ENT-006",
       "category": "Entradas",
       "name": "Palitos de Queso",
       "description": " 4 deditos de queso apanados y doraditos acompañados de salsa mora.",
       "price": 9000,
+      "image": "https://images.unsplash.com/photo-1548340748-1d08cf42914c?q=80&w=300",
+      "available": true
+    },
+    {
+      "id": "ENT-007",
+      "category": "Entradas",
+      "name": "Anillos de Cebolla",
+      "description": " Crujientes aros de cebolla blanca, apanados con nuestra receta de la casa, acompañados con salsa.",
+      "price": 8000,
+      "image": "https://images.unsplash.com/photo-1548340748-1d08cf42914c?q=80&w=300",
+      "available": true
+    },
+    {
+      "id": "ENT-008",
+      "category": "Entradas",
+      "name": "Camarones Rebosados",
+      "description": "Exquisitos camarones seleccionados, cubiertos en una tempura ligera y crocante",
+      "price": 16000,
+      "image": "https://images.unsplash.com/photo-1548340748-1d08cf42914c?q=80&w=300",
+      "available": true
+    },
+    {
+      "id": "ENT-009",
+      "category": "Entradas",
+      "name": "Ensalada Paladar",
+      "description": "Fresca combinación de mix de lechugas, mango dulce, tomate cherry y tiernos trozos de pollo, bañados en nuestra exclusiva vinagreta de vino tinto.",
+      "price": 17000,
       "image": "https://images.unsplash.com/photo-1548340748-1d08cf42914c?q=80&w=300",
       "available": true
     },
