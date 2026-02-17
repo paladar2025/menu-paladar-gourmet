@@ -82,6 +82,20 @@
         scrollbar-width: none;
       }
     </style>
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-JHHQ0GR1NX"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-JHHQ0GR1NX");
+    </script>
   </head>
   <body>
     <main class="menu-container">
@@ -216,6 +230,7 @@
     <a
       href="https://wa.me/573212378778?text=Hola%20Paladar%20Gourmet,%20quisiera%20realizar%20un%20pedido!"
       target="_blank"
+      onclick="gtag('event', 'clic_whatsapp', { ubicacion: 'boton_flotante' })"
       class="fixed bottom-6 right-6 z-[60] animate-bounce-slow"
     >
       <div
@@ -257,6 +272,9 @@
       }
 
       function showCategory(categoryName) {
+        gtag("event", "ver_categoria", {
+          nombre_categoria: categoryName,
+        });
         const productsView = document.getElementById("view-products");
         const scrollContainer = document.getElementById("scroll-container");
         const container = document.getElementById("product-list");
